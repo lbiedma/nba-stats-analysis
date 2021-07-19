@@ -1,5 +1,6 @@
+beautifulsoup4
+lxml
 pandas
 plotly
 numpy
 nba_api
-
