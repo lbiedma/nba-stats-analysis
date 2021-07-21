@@ -6,3 +6,6 @@ Notebooks with Examples of how to use a [Python wrapper for the NBA API](https:/
 
 ## Change in Pace in the NBA
 [This notebook](https://github.com/lbiedma/nba-api-examples/blob/main/AvgPossessionsOverTime.ipynb) downloads teams' advanced data for the last 20 regular seasons and provides a couple of plots (using Plotly) to show how the pace of the game has elevated. This also includes scraping teams' primary and secondary colors and adding them to the plots. Scraping algorithm and CSV file provided in this repo.
+
+## Computing the Offensive Rating of all NBA Players
+[This notebook](https://github.com/lbiedma/nba-api-examples/blob/main/OffensiveRatings.ipynb) shows the computation of the Offensive Rating for each player in a specific regular season, following the formulae created by Dean Oliver, which were published in his book: [Basketball on Paper](http://www.basketballonpaper.com/).
