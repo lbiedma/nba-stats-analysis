@@ -18,3 +18,9 @@ Notebooks with Examples of how to use a [Python wrapper for the NBA API](https:/
 ![pic](https://github.com/lbiedma/nba-api-examples/blob/main/images/ortg.png)
 
 [This notebook](https://github.com/lbiedma/nba-api-examples/blob/main/OffensiveRatings.ipynb) shows the computation of the Offensive Rating for each player in a specific regular season, following the formulae created by Dean Oliver, which were published in his book: [Basketball on Paper](http://www.basketballonpaper.com/).
+
+## Four Factors Analysis for the Last 20 Seasons
+
+![pic](https://github.com/lbiedma/nba-api-examples/blob/main/images/4factors.png)
+
+[This notebook](https://github.com/lbiedma/nba-api-examples/blob/main/FourFactorsAnalysis.ipynb) tries to follow up on [Squared2020 Blog introducing the Four Factors](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/), adjusting a linear model for the last 20 seasons and check how important each of these factors turned out to be.
